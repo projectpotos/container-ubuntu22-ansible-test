@@ -58,4 +58,4 @@ RUN for MATCH in \
 VOLUME ["/sys/fs/cgroup"]
 
 # Execute systemd at start
-CMD ["/sbin/init"]
+CMD ["/lib/systemd/systemd"]
