@@ -5,7 +5,7 @@ Ubuntu 22.04 container image for testing Ansible roles, playbooks and collection
 The main idea is to use it in combination with
 [Molecule](https://github.com/ansible-community/molecule).
 
-[![Build & Publish](https://github.com/projectpotos/container-ubuntu22-ansible-test/actions/workflows/build-publish.yml/badge.svg)](https://github.com/karras/container-ubuntu22-ansible-test/actions/workflows/build-publish.yml)
+[![Build & Publish](https://github.com/projectpotos/container-ubuntu22-ansible-test/actions/workflows/build-publish.yml/badge.svg)](https://github.com/projectpotos/container-ubuntu22-ansible-test/actions/workflows/build-publish.yml)
 
 ## Customizations
 
