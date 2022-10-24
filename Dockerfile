@@ -12,6 +12,7 @@ ENV container docker
 # Install systemd
 RUN apt-get update && apt-get install -y --no-install-recommends \
     systemd \
+    init \
     python3 \
     && \
     apt-get clean
