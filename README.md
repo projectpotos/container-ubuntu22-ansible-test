@@ -1,6 +1,7 @@
 # Container Image - Ubuntu22 Ansible Test
 
-Ubuntu 22.04 container image for testing Ansible roles, playbooks and collections.
+Ubuntu 22.04 container image for testing Ansible roles, playbooks and
+collections.
 
 The main idea is to use it in combination with
 [Molecule](https://github.com/ansible-community/molecule).
